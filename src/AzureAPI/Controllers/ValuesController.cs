@@ -21,7 +21,7 @@ namespace AzureAPI.Controllers
         [HttpGet("{id}")]
         public ActionResult<string> Get(int id)
         {
-            return "Les Jackson";
+            return "Manish Shrestha";
         }
 
         // POST api/values
